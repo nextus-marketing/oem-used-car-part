@@ -65,7 +65,7 @@
           <div class="d-table-cell">
               <div class="container">
                   <div class="banner-text">
-                      <h1>Genuine OEM Partss</h1>
+                      <h1>Genuine OEM Parts</h1>
                       <p>Upgrade your vehicle with 100% original OEM parts. Reliable, durable,</br> and designed to match your car’s exact specifications because your</br> car deserves nothing less.</p>
                       <div class="cmn-btn">
                           <a class="banner-btn-left" href="tel:+18883707485">
