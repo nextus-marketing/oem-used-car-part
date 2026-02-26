@@ -1,0 +1,155 @@
+/* DataTable Top Buttons */
+.dt-buttons {
+    margin-top: 7px !important;
+}
+
+.dt-button {
+    font-size: 10px !important;
+    padding: 4px 10px 4px 10px !important;
+}
+
+.buttons-copy {
+    background-color: #f8f9fa !important;
+    border: 1px solid #dee2e6 !important;
+    color: #343a40 !important;
+}
+
+.buttons-csv {
+    background-color: #f8f9fa !important;
+    border: 1px solid #dee2e6 !important;
+    color: #343a40 !important;
+}
+
+.buttons-print {
+    background-color: #f8f9fa !important;
+    border: 1px solid #dee2e6 !important;
+    color: #343a40 !important;
+}
+
+/* DataTable */
+.dataTables_filter,
+.dataTables_length {
+    margin-bottom: 0px !important;
+    margin-top: -27px !important;
+    text-align: right !important;
+}
+
+/* .table-responsive::-webkit-scrollbar {
+    -webkit-appearance: none;
+} */
+
+.table-responsive {
+    overflow-y: hidden;
+    overflow-x: auto;
+}
+
+.table-responsive {
+    overflow-y: hidden;
+    overflow-x: auto;
+}
+
+.table-responsive::-webkit-scrollbar {
+    height: 8px;
+    width: 8px;
+}
+
+.table-responsive::-webkit-scrollbar-thumb {
+    background-color: #0f2453;
+    border-radius: 10px;
+}
+
+.table-responsive::-webkit-scrollbar-track {
+    background-color: #f1f1f1;
+}
+
+/* Select 2 */
+.select2-container--default .select2-selection--multiple .select2-selection__choice {
+    background-color: #539bff !important;
+    border-color: #539bff !important;
+    color: #fff !important;
+}
+
+.select2-container--default .select2-selection--multiple .select2-selection__choice__remove {
+    background-color: #539bff !important;
+    border-color: #539bff !important;
+    color: #fff !important;
+}
+
+.sidebar-nav ul .sidebar-item.selected>.sidebar-link,
+.sidebar-nav ul .sidebar-item.selected>.sidebar-link.active,
+.sidebar-nav ul .sidebar-item>.sidebar-link.active {
+    background-color: #0e346f;
+    color: #fff;
+}
+
+.sidebar-nav ul .sidebar-item .sidebar-link:hover {
+    background-color: rgba(93, 135, 255, .1);
+    color: #042454;
+}
+
+.form-check-input:checked {
+    background-color: #042454;
+    border-color: #042454;
+}
+
+.btn-info {
+    --bs-btn-color: #fff;
+    --bs-btn-bg: #042454;
+    --bs-btn-border-color: #042454;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #1d3964;
+    --bs-btn-hover-border-color: #1d3964;
+    --bs-btn-focus-shadow-rgb: 109, 170, 255;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #1d3964;
+    --bs-btn-active-border-color: #1d3964;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: #fff;
+    --bs-btn-disabled-bg: #042454;
+    --bs-btn-disabled-border-color: #042454;
+}
+
+.table-responsive .dataTables_wrapper .dataTables_paginate .paginate_button.current {
+    color: #fff;
+    background-color: #042454;
+    border-color: #042454;
+}
+
+.btn-primary {
+    --bs-btn-color: #fff;
+    --bs-btn-bg: #042454;
+    --bs-btn-border-color: #042454;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #1d3964;
+    --bs-btn-hover-border-color: #1d3964;
+    --bs-btn-focus-shadow-rgb: 109, 170, 255;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #1d3964;
+    --bs-btn-active-border-color: #1d3964;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: #fff;
+    --bs-btn-disabled-bg: #042454;
+    --bs-btn-disabled-border-color: #042454;
+}
+
+.btn-outline-primary {
+    --bs-btn-color: #f30c0c;
+    --bs-btn-border-color: #f30c0c;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #f30c0c;
+    --bs-btn-hover-border-color: #f30c0c;
+    --bs-btn-focus-shadow-rgb: 93, 135, 255;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #f30c0c;
+    --bs-btn-active-border-color: #f30c0c;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: #f30c0c;
+    --bs-btn-disabled-bg: transparent;
+    --bs-btn-disabled-border-color: #f30c0c;
+    --bs-gradient: none;
+}
+
+.bg-info {
+    --bs-bg-opacity: 1;
+    background-color: #042454 !important;
+}
