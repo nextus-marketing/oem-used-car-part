@@ -311,6 +311,7 @@
             <div class="field_error" id="captcha-error" style="color:#ff0000; margin-top:5px;"></div>
           </div>
         </div>
+
         <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 
         <!-- Submit Button -->
@@ -323,6 +324,7 @@
     </div>
   </div>
 </section>
+
 <style>
   .blog-details-form * { box-sizing: border-box; }
 
@@ -467,132 +469,132 @@
   </section>
 
   <section class="parts-area pt-100 pb-70">
-            <div class="container">
-                <div class="section-title">
-                    <h2>Explore Our Parts Inventory</h2>
-                </div>
-                <div class="sorting-menu">
-                    <ul> 
-                       <li class="filter active" data-filter="all">all</li>
-                       <li class="filter" data-filter=".engine">Engine</li>
-                       <li class="filter" data-filter=".transmission">Transmission</li>
-                    </ul>
-                </div>
-                <div id="Container" class="row">
-                    <div class="col-sm-6 col-lg-3 mix ui engine">
-                        <div class="parts-item">
-                            <div class="parts-top">
-                                <img src="/frontend/my-img/engine/engine.jpg" alt="Parts">
-                            </div>
-                            <h3>Hyundai Engine</h3>
-                            <div class="cmn-btn">
-                                <a class="banner-btn-left" href="tel:+18883707485">
-                                  <i class='bx bx-phone-call' ></i>
-                                    Call Us Now
-                                </a>
-                            </div>
-                        </div>
+    <div class="container">
+        <div class="section-title">
+            <h2>Explore Our Parts Inventory</h2>
+        </div>
+        <div class="sorting-menu">
+            <ul> 
+                <li class="filter active" data-filter="all">all</li>
+                <li class="filter" data-filter=".engine">Engine</li>
+                <li class="filter" data-filter=".transmission">Transmission</li>
+            </ul>
+        </div>
+        <div id="Container" class="row">
+            <div class="col-sm-6 col-lg-3 mix ui engine">
+                <div class="parts-item">
+                    <div class="parts-top">
+                        <img src="/frontend/my-img/engine/engine.jpg" alt="Parts">
                     </div>
-                    <div class="col-sm-6 col-lg-3 mix branding transmission">
-                        <div class="parts-item">
-                            <div class="parts-top">
-                                <img src="/frontend/my-img/transmission/hyundai.webp" alt="Parts">
-                            </div>
-                            <h3>Hyundai Transmission</h3>
-                            <div class="cmn-btn">
-                                <a class="banner-btn-left" href="tel:+18883707485">
-                                  <i class='bx bx-phone-call' ></i>
-                                    Call Us Now
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-6 col-lg-3 mix ui transmission">
-                        <div class="parts-item">
-                            <div class="parts-top">
-                                <img src="/frontend/my-img/transmission/bmw.webp" alt="Parts">
-                            </div>
-                            <h3>BMW Transmission</h3>
-                            <div class="cmn-btn">
-                                <a class="banner-btn-left" href="tel:+18883707485">
-                                  <i class='bx bx-phone-call' ></i>
-                                   Call Us Now
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-6 col-lg-3 mix ux engine">
-                        <div class="parts-item">
-                            <div class="parts-top">
-                                <img src="/frontend/my-img/engine/bmw.webp" alt="Parts">
-                            </div>                           
-                            <h3>BMW Engine</h3>
-                            <div class="cmn-btn">
-                                <a class="banner-btn-left" href="tel:+18883707485">
-                                  <i class='bx bx-phone-call' ></i>
-                                    Call Us Now
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-6 col-lg-3 mix engine">
-                        <div class="parts-item">
-                            <div class="parts-top">
-                                <img src="/frontend/my-img/engine/Chevrolet.jpg" alt="Parts">
-                            </div>
-                            <h3>Chevrolet Engine</h3>
-                            <div class="cmn-btn">
-                                <a class="banner-btn-left" href="tel:+18883707485">
-                                  <i class='bx bx-phone-call' ></i>
-                                   Call Us Now
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-6 col-lg-3 mix ui transmission">
-                        <div class="parts-item">
-                            <div class="parts-top">
-                                <img src="/frontend/my-img/transmission/chevrolate.jpg" alt="Parts">
-                            </div>
-                            <h3>Chevrolate Transmission</h3>
-                            <div class="cmn-btn">
-                                <a class="banner-btn-left" href="tel:+18883707485">
-                                  <i class='bx bx-phone-call' ></i>
-                                   Call Us Now
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-6 col-lg-3 mix ux engine">
-                        <div class="parts-item">
-                            <div class="parts-top">
-                                <img src="/frontend/my-img/engine/bently.webp" alt="Parts">
-                            </div>
-                            <h3>Bentley Engine</h3>
-                            <div class="cmn-btn">
-                                <a class="banner-btn-left" href="tel:+18883707485">
-                                  <i class='bx bx-phone-call' ></i>
-                                   Call Us Now
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-sm-6 col-lg-3 mix ui transmission">
-                        <div class="parts-item">
-                            <div class="parts-top">
-                                <img src="/frontend/my-img/transmission/bentley.webp" alt="Parts">
-                            </div>                           
-                            <h3>Bentley Transmission</h3>
-                            <div class="cmn-btn">
-                                <a class="banner-btn-left" href="tel:+18883707485">
-                                  <i class='bx bx-phone-call' ></i>
-                                   Call Us Now
-                                </a>
-                            </div>
-                        </div>
+                    <h3>Hyundai Engine</h3>
+                    <div class="cmn-btn">
+                        <a class="banner-btn-left" href="tel:+18883707485">
+                          <i class='bx bx-phone-call' ></i>
+                            Call Us Now
+                        </a>
                     </div>
                 </div>
             </div>
+            <div class="col-sm-6 col-lg-3 mix branding transmission">
+                <div class="parts-item">
+                    <div class="parts-top">
+                        <img src="/frontend/my-img/transmission/hyundai.webp" alt="Parts">
+                    </div>
+                    <h3>Hyundai Transmission</h3>
+                    <div class="cmn-btn">
+                        <a class="banner-btn-left" href="tel:+18883707485">
+                          <i class='bx bx-phone-call' ></i>
+                            Call Us Now
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-lg-3 mix ui transmission">
+                <div class="parts-item">
+                    <div class="parts-top">
+                        <img src="/frontend/my-img/transmission/bmw.webp" alt="Parts">
+                    </div>
+                    <h3>BMW Transmission</h3>
+                    <div class="cmn-btn">
+                        <a class="banner-btn-left" href="tel:+18883707485">
+                          <i class='bx bx-phone-call' ></i>
+                            Call Us Now
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-lg-3 mix ux engine">
+                <div class="parts-item">
+                    <div class="parts-top">
+                        <img src="/frontend/my-img/engine/bmw.webp" alt="Parts">
+                    </div>                           
+                    <h3>BMW Engine</h3>
+                    <div class="cmn-btn">
+                        <a class="banner-btn-left" href="tel:+18883707485">
+                          <i class='bx bx-phone-call' ></i>
+                            Call Us Now
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-lg-3 mix engine">
+                <div class="parts-item">
+                    <div class="parts-top">
+                        <img src="/frontend/my-img/engine/Chevrolet.jpg" alt="Parts">
+                    </div>
+                    <h3>Chevrolet Engine</h3>
+                    <div class="cmn-btn">
+                        <a class="banner-btn-left" href="tel:+18883707485">
+                          <i class='bx bx-phone-call' ></i>
+                            Call Us Now
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-lg-3 mix ui transmission">
+                <div class="parts-item">
+                    <div class="parts-top">
+                        <img src="/frontend/my-img/transmission/chevrolate.jpg" alt="Parts">
+                    </div>
+                    <h3>Chevrolate Transmission</h3>
+                    <div class="cmn-btn">
+                        <a class="banner-btn-left" href="tel:+18883707485">
+                          <i class='bx bx-phone-call' ></i>
+                            Call Us Now
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-lg-3 mix ux engine">
+                <div class="parts-item">
+                    <div class="parts-top">
+                        <img src="/frontend/my-img/engine/bently.webp" alt="Parts">
+                    </div>
+                    <h3>Bentley Engine</h3>
+                    <div class="cmn-btn">
+                        <a class="banner-btn-left" href="tel:+18883707485">
+                          <i class='bx bx-phone-call' ></i>
+                            Call Us Now
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-lg-3 mix ui transmission">
+                <div class="parts-item">
+                    <div class="parts-top">
+                        <img src="/frontend/my-img/transmission/bentley.webp" alt="Parts">
+                    </div>                           
+                    <h3>Bentley Transmission</h3>
+                    <div class="cmn-btn">
+                        <a class="banner-btn-left" href="tel:+18883707485">
+                          <i class='bx bx-phone-call' ></i>
+                            Call Us Now
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
   </section>
 
 
@@ -630,9 +632,7 @@
               <h2>Explore Our Latest Engine & Transmission Parts</h2>
               <p>Discover premium-grade engine and transmission components designed to deliver exceptional performance, durability, and reliability.</p>
           </div>
-          
           <div id="Container" class="row">
-              
               <div class="col-sm-6 col-lg-6 mix ui branding">
                   <div class="work-item">
                       <img src="/frontend/my-img/made-in-china.webp" alt="Work" style="width: 100%; height: 389px; object-fit: cover; object-position: center; display: block; border-radius: 10px;">

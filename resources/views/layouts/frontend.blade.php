@@ -34,7 +34,7 @@
         <link rel="stylesheet" href="/frontend/assets/css/my.css">
         <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-        <meta name="description" content="used car parts, OEM used auto parts, salvaged automobile components, genuine OEM parts, aftermarket used parts, car accessories">
+        <meta name="description" content="Find quality OEM used engines & transmissions online — certified, affordable, and delivered fast across the USA. Get the right part today!">
         @hasSection('robots')
             @yield('robots')
         @else
